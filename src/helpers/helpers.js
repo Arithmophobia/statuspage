@@ -34,7 +34,7 @@ function textToXML(text) {
   return xmlDoc
 }
 
-// only rss available??
+// only rss available?
 // rss example:
 // https://www.reddit.com/r/AZURE/comments/4tnj7x/azure_status_rss_fields/d5kr8gj/
 function parseAzure(data) {
